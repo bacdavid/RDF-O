@@ -19,7 +19,7 @@ Very simple method to detect outliers based on Random Network Distillation (http
 
 ### Loss
 
-The loss function to train the model is simultaneously the outlier-score:
+The loss function to train the model is simultaneously the outlier-score:<br/> 
 *Please note that `z` denotes the latent representation*
 ```
 mse(z_target, z_predicted).
