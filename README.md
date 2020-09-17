@@ -15,7 +15,7 @@ Very simple method to detect outliers based on Random Network Distillation (http
 ### Random Network Distillation
 
 - Use a target network (randomly initialized and fixed) and a prediction network which attempts to match the target network
-- Target network is uses more layers than the prediction network to - hopefully - generate an embedding with large variance
+- Target network uses more layers than the prediction network to - hopefully - generate an embedding with large variance
 
 ### Loss
 
