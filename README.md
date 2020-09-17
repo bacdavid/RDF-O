@@ -6,7 +6,7 @@ This project is by David Bachmann (bacdavid). It is not published or affiliated.
 Very simple method to detect outliers based on Random Network Distillation (https://arxiv.org/pdf/1810.12894.pdf). 
 
 <div align="center">
-<img src="img/distances.jpg" width="300"/>
+<img src="img/distances.jpg" width="1000"/>
 <p align="justify">Model was trained on celebA (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), therefore on celebrity faces. The normalized predicted distance from this distribution is denoted. </p>
 </div>
 
